@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,4 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning Laravel
+🔭 I’m currently working on **Retail Industry**
+🌱 I’m currently learning [**Laravel**](https://laravel.com/) Framework
+
+![coder](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczBuMXltYnBpZnU1OTlzZHB6emRsbDFzdnc2OW1yanY3cmt2MTJ4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif)
