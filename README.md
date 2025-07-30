@@ -11,7 +11,7 @@
 - 🔭 Currently working in the **Retail Industry**
 - 🌱 Exploring the [**Laravel**](https://laravel.com/) framework & [**Google Cloud Platform**](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChsSEwi3o6b9gOWOAxVYqmYCHZZUOMUYACICCAEQABoCc20&co=1&ase=2&gclid=Cj0KCQjwhafEBhCcARIsAEGZEKK41s7R3Q6JOZ-5uR4Gi77PnHCr2b67A-VCVlgz7oNTrMsqVF3UT8YaAmeQEALw_wcB&ohost=www.google.com&cid=CAESV-D2f9DX1HFP8gBoOLT0nwIm8k1yG3jRwmd34cKzz1toM0AQtgI1OVk7kggNT8Qsp2Rv5uqtOjGBoR8V4BQDv9MSdH6EcVQWKduytmh8KWrmrRoPhmmMig&category=acrcp_v1_45&sig=AOD64_1qg4vNGYlmDmXaifUCcvZvcBTfjg&q&nis=4&adurl&ved=2ahUKEwjsuKH9gOWOAxUvxzgGHawuL20Q0Qx6BAgJEAE)
 - 🎓 Graduated in **Information Technology**
-- 💬 Ask me about **Laravel**, **Flask**, **PostgreSQL**, **MongoDB**, or **API Architecture**
+- 💬 Ask me about **Laravel**, **Flask**, **PostgreSQL**, **MongoDB**, or **API Architecture**, **Oracle**
 - 🧠 Passionate about **Web Development** and **Software Architecture**
 
 ---
@@ -70,7 +70,11 @@
 
 ### Databases
 
+### Databases
+
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase)](https://skillicons.dev)
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
 
